@@ -33,9 +33,29 @@ M3 Codes was founded by:
 
 **Unutma Dostu** is a mobile application designed to assist Alzheimer's patients and individuals with concentration and memory issues. The app utilizes advanced technologies to help users remember important tasks, appointments, and information. Our team successfully completed the development of Unutma Dostu, and we are currently working on enhancing its features.
 
-### Future Projects
+## Future Projects
 
-We are excited to announce that we have several exciting projects in the pipeline. Stay tuned for updates on our upcoming projects!
+We are excited to announce that we have several exciting projects in the pipeline. Here’s a sneak peek of our upcoming projects:
+
+### Fotvia
+
+<div align="left">
+  <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/FotviaLogo.jpg" alt="Fotvia Logo" width="100">
+  <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/FotviaLogo2.jpg" alt="Fotvia Logo 2" width="100">
+</div>
+
+**Fotvia** is an AI-powered photo editing application designed to enhance and transform images using advanced artificial intelligence algorithms. Our team is currently developing Fotvia to offer users a seamless photo editing experience that goes beyond traditional tools.
+
+### Ikra
+
+<div align="left">
+  <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/ikraLogo.png" alt="Ikra Logo" width="100">
+</div>
+
+**Ikra** is a book and author showcase app that allows users to explore books, read reviews, and discover new authors. Ikra aims to become a go-to platform for book enthusiasts, providing a rich, interactive experience for readers.
+
+Stay tuned for updates on these exciting projects!
+
 
 ## Technologies Used
 
