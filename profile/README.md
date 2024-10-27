@@ -1,7 +1,7 @@
 # M3 Codes
 
 <div align="left">
-  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Logo.png" alt="M3 Codes Logo" width="100">
+  <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/Logo.png" alt="M3 Codes Logo" width="100">
 </div>
 
 M3 Codes is a team of three computer engineers dedicated to software development. We are passionate about leveraging cutting-edge technologies to create innovative solutions.
@@ -42,8 +42,8 @@ We are excited to announce that we have several exciting projects in the pipelin
 At M3 Codes, we utilize a range of technologies to streamline our development process and deliver robust solutions. Some of the key technologies we use include:
 
 <div align="left">
-  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Gitt.png" alt="Git Logo" width="30">  
-  <img src="https://github.com/M3-Codes/M3Codes/blob/main/Logos/Jira.png" alt="Jira Logo" width="31">  
+  <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/Gitt.png" alt="Git Logo" width="30">  
+  <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/Jira.png" alt="Jira Logo" width="31">  
 </div>
 
 <div align="left">
