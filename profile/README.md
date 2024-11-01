@@ -50,7 +50,7 @@ We are excited to announce that we have several exciting projects in the pipelin
 ### Ikra
 
 <div align="left">
-  <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/ikraLogo.png" alt="Ikra Logo" width="100">
+  <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/IkraLogo.png" alt="Ikra Logo" width="100">
   <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/ikraicon.png" alt="Ikra Logo" width="100">
 </div>
 
@@ -59,7 +59,7 @@ We are excited to announce that we have several exciting projects in the pipelin
 Stay tuned for updates on these exciting projects!
 
 
-## Technologies Used
+## TecIhnologies Used
 
 At M3 Codes, we utilize a range of technologies to streamline our development process and deliver robust solutions. Some of the key technologies we use include:
 
