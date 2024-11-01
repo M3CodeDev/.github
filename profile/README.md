@@ -50,7 +50,7 @@ We are excited to announce that we have several exciting projects in the pipelin
 ### Ikra
 
 <div align="left">
-  <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/ikraicon.png" alt="Ikra Logo" width="100">
+  <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/ikaricon.png" alt="Ikra Logo" width="100">
   <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/IkraLogo.png" alt="Ikra Logo" width="100">
   
 </div>
