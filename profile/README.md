@@ -1,4 +1,4 @@
-# M3 Codes
+# M3Code
 
 <div align="left">
   <img src="https://github.com/M3-Codes/.github/blob/main/profile/Logos/Logo.png" alt="M3 Codes Logo" width="100">
