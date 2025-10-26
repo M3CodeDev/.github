@@ -155,7 +155,7 @@ Our diverse team brings together complementary skills to deliver comprehensive s
   <!-- <img src="رابط-screenshot-1" alt="Screenshot 1" width="200"> -->
 </div>
 
-**قلعة الأسرار (Passtle)** is a secure, locally-stored password management application built with Flutter. The app prioritizes user privacy and security through:
+** (Passtle)** is a secure, locally-stored password management application built with Flutter. The app prioritizes user privacy and security through:
 
 **Key Features:**
 - 🔐 **AES-256 Encryption** - Military-grade security
@@ -179,7 +179,7 @@ Our diverse team brings together complementary skills to deliver comprehensive s
 
 ---
 
-### 3. العُشرة (Oshara) - Shared Expense Manager
+### 3. (Oshara) - Shared Expense Manager
 
 <!-- 🖼️ صور التطبيق -->
 <div align="left">
