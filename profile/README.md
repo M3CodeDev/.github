@@ -32,7 +32,7 @@ Our mission at M3 Codes is to leverage technology for positive social impact. We
 - 📱 Mobile Application Development
 - 💼 [LinkedIn](https://www.linkedin.com/in/mxy963/) | 🐙 [GitHub](https://github.com/mxy963)
 
-#### [Mohamed Bereket (MuBereket)](https://github.com/MuBereket2023)
+#### [Mohamed Bereket (MuBereket)](https://github.com/MuBereket)
 **Co-Founder | Software Engineer & AI Specialist**
 - 🤖 Artificial Intelligence & Machine Learning
 - 📱 Mobile Application Development
