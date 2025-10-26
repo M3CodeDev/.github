@@ -54,7 +54,7 @@ Our mission at M3 Codes is to leverage technology for positive social impact. We
 - 💻 Full Stack Development
 - 🌐 End-to-End Software Solutions
 - ⚙️ Backend & Frontend Integration
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-salih11/) | 🐙 [GitHub](https://github.com/ahmed-salih-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-salih11/) | 🐙 [GitHub](https://github.com/Ahmedsall1)
 
 #### [Mutez Rahal](https://github.com/Mutez-Rahal)
 **AI Engineer & Data Analyst**
