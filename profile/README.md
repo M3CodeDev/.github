@@ -30,45 +30,52 @@ Our mission at M3 Codes is to leverage technology for positive social impact. We
 **Co-Founder | UI/UX Designer & Mobile Developer**
 - 🎨 UI/UX Design & User Experience
 - 📱 Mobile Application Development
-- 💼 [LinkedIn](https://linkedin.com/in/mohamed-yusuf-link) | 🐙 [GitHub](https://github.com/mxy963)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mxy963/) | 🐙 [GitHub](https://github.com/mxy963)
 
 #### [Mohamed Bereket (MuBereket)](https://github.com/MuBereket2023)
 **Co-Founder | Software Engineer & AI Specialist**
 - 🤖 Artificial Intelligence & Machine Learning
 - 📱 Mobile Application Development
 - 💻 Software Engineering
-- 💼 [LinkedIn](https://linkedin.com/in/mohamed-bereket-link) | 🐙 [GitHub](https://github.com/MuBereket2023)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammed-bereket-526390307) | 🐙 [GitHub](https://github.com/MuBereket2023)
 
 #### [Mahmoud (Mahmut0b)](https://github.com/Mahmut0b)
 **Co-Founder | Mobile Application Developer**
 - 📱 Mobile Development (Flutter/Dart)
 - 💻 Software Development
-- 💼 [LinkedIn](https://linkedin.com/in/mahmoud-link) | 🐙 [GitHub](https://github.com/Mahmut0b)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahmutbasmaci/) | 🐙 [GitHub](https://github.com/Mahmut0b)
 
 ---
 
 ### Core Team
+
+#### [Ahmed Salih](https://github.com/Ahmedsall1)
+**Software Engineer & Full Stack Developer**
+- 💻 Full Stack Development
+- 🌐 End-to-End Software Solutions
+- ⚙️ Backend & Frontend Integration
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-salih11/) | 🐙 [GitHub](https://github.com/ahmed-salih-link)
 
 #### [Mutez Rahal](https://github.com/Mutez-Rahal)
 **AI Engineer & Data Analyst**
 - 🤖 Artificial Intelligence
 - 📊 Data Analysis & Analytics
 - 🧠 Machine Learning Solutions
-- 💼 [LinkedIn](https://linkedin.com/in/mutez-rahal-link) | 🐙 [GitHub](https://github.com/Mutez-Rahal)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mutez-rahal/) | 🐙 [GitHub](https://github.com/Mutez-Rahal)
 
 #### [Malik Maky](https://github.com/malikmaky)
 **Full Stack Developer & Data Analyst**
 - 🌐 Full Stack Development
 - 📊 Data Analysis & Business Intelligence
 - 🔧 Backend & Frontend Integration
-- 💼 [LinkedIn](https://linkedin.com/in/malik-maky-link) | 🐙 [GitHub](https://github.com/malikmaky)
+- 💼 [LinkedIn](https://www.linkedin.com/in/malik-muhammed/) | 🐙 [GitHub](https://github.com/malikmaky)
 
 #### [Bahaa (BhaaSyr)](https://github.com/BhaaSyr)
 **Backend Developer**
 - ⚙️ Backend Development & APIs
 - 🗄️ Database Design & Management
 - 🔐 Server-Side Logic & Security
-- 💼 [LinkedIn](https://linkedin.com/in/bahaa-link) | 🐙 [GitHub](https://github.com/BhaaSyr)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bahaa-aldin-alzhouri-80b994232/) | 🐙 [GitHub](https://github.com/BhaaSyr)
 
 ---
 
@@ -146,7 +153,7 @@ Our diverse team brings together complementary skills to deliver comprehensive s
 
 ---
 
-### 2. (Castle of Secrets) - Password Manager
+### 2. قلعة الأسرار (Castle of Secrets) - Password Manager
 
 <!-- 🖼️ صور التطبيق -->
 <div align="left">
@@ -155,7 +162,7 @@ Our diverse team brings together complementary skills to deliver comprehensive s
   <!-- <img src="رابط-screenshot-1" alt="Screenshot 1" width="200"> -->
 </div>
 
-** (Passtle)** is a secure, locally-stored password management application built with Flutter. The app prioritizes user privacy and security through:
+**قلعة الأسرار (Passtle)** is a secure, locally-stored password management application built with Flutter. The app prioritizes user privacy and security through:
 
 **Key Features:**
 - 🔐 **AES-256 Encryption** - Military-grade security
@@ -179,7 +186,7 @@ Our diverse team brings together complementary skills to deliver comprehensive s
 
 ---
 
-### 3. (Oshara) - Shared Expense Manager
+### 3. العُشرة (Oshara) - Shared Expense Manager
 
 <!-- 🖼️ صور التطبيق -->
 <div align="left">
@@ -188,7 +195,7 @@ Our diverse team brings together complementary skills to deliver comprehensive s
   <!-- <img src="رابط-dashboard-screenshot" alt="Dashboard" width="200"> -->
 </div>
 
-** (Oshara)** is a sophisticated expense management app for shared living situations, perfect for roommates, students, and shared households.
+**العُشرة (Oshara)** is a sophisticated expense management app for shared living situations, perfect for roommates, students, and shared households.
 
 **Key Features:**
 - 🏠 **Multi-House Management** - Create or join houses with unique codes
@@ -419,7 +426,7 @@ We believe in the power of collaboration and are always open to:
 
 - 📧 Email: [contact@m3codes.dev](mailto:contact@m3codes.dev)
 - 🌐 Website: [www.m3codes.dev](https://www.m3codes.dev)
-- 💼 LinkedIn: [M3 Codes](https://linkedin.com/company/m3codes)
+- 💼 LinkedIn: [M3 Codes](https://www.linkedin.com/company/m3-codes)
 - 🐦 Twitter: [@M3Codes](https://twitter.com/M3Codes)
 
 ---
