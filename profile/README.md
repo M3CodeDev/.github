@@ -231,7 +231,7 @@ Our diverse team brings together complementary skills to deliver comprehensive s
 
 ## 🏆 Achievements
 
-### Trendyol TEKNOFEST E-Commerce Hackathon 2024
+### Trendyol TEKNOFEST E-Commerce Hackathon 2025
 
 <!-- 🖼️ صورة الإنجاز/الشهادة: ضع الصورة هنا -->
 <div align="left">
