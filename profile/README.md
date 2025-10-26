@@ -146,7 +146,7 @@ Our diverse team brings together complementary skills to deliver comprehensive s
 
 ---
 
-### 2. قلعة الأسرار (Castle of Secrets) - Password Manager
+### 2. (Castle of Secrets) - Password Manager
 
 <!-- 🖼️ صور التطبيق -->
 <div align="left">
@@ -188,7 +188,7 @@ Our diverse team brings together complementary skills to deliver comprehensive s
   <!-- <img src="رابط-dashboard-screenshot" alt="Dashboard" width="200"> -->
 </div>
 
-**العُشرة (Oshara)** is a sophisticated expense management app for shared living situations, perfect for roommates, students, and shared households.
+** (Oshara)** is a sophisticated expense management app for shared living situations, perfect for roommates, students, and shared households.
 
 **Key Features:**
 - 🏠 **Multi-House Management** - Create or join houses with unique codes
