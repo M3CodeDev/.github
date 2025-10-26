@@ -337,9 +337,8 @@ This achievement demonstrates our team's capability in:
 ### HungerJet - Food Delivery Platform
 
 <!-- 🖼️ صور HungerJet: ضع الصور هنا -->
-<div align="left">
-  <!-- مثال: <img src="رابط-شعار-HungerJet" alt="HungerJet Logo" width="100"> -->
-  <!-- <img src="رابط-screenshot-app" alt="HungerJet App" width="200"> -->
+div align="left">
+  <img src="https://github.com/M3CodeDev/.github/blob/bedb9e49fdcbacd3ae2904adb38518c9bfe5806d/profile/Logos/appicon.png" alt="Hungerjet Logo" width="100">
 </div>
 
 **HungerJet** is an innovative food delivery platform that aims to revolutionize the way people order and enjoy their favorite meals.
